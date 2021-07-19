@@ -1,0 +1,5 @@
+control
+super 
+hyper
+done
+crown
